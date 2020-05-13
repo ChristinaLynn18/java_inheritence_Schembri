@@ -1,0 +1,28 @@
+# java_inheritence_Schembri gitignore #
+
+# STS(eclipse) project files #
+##############################
+.settings/
+.classpath
+.project
+
+# Compiled class files #
+########################
+/bin/
+*.class
+
+# Package Files #
+#################
+*.jar
+*.war
+*.ear
+*.db
+
+# Logs #
+########
+/log/*
+*.log
+
+# WinMerge .bak files #
+#######################
+*.bak
